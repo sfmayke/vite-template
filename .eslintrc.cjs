@@ -29,6 +29,7 @@ module.exports = {
     },
   },
   rules: {
-    'import/no-extraneous-dependencies': 0,
+    'react/jsx-props-no-spreading': 0,
+    'react/require-default-props': 0,
   },
 };
